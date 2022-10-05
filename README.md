@@ -17,7 +17,10 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+## 📝 Blogs
 
+- Work in Progress.
+- For while can connect with me in LinkedIn: https://www.linkedin.com/in/gustavo-h-batista/
 
 ## 🔧 Technologies & Tools
 
@@ -47,3 +50,15 @@ me.say_hi()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=casualmente&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🗂️ Currently Highlight Projects
+
+<a href="https://github.com/casualmente/NLW-eSports-WEB-and-Mobile-Version">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casualmente&repo=NLW-eSports-WEB-and-Mobile-Version&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/casualmente/Recreating-Layout">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casualmente&repo=Recreating-Layout&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+<!-- ## 👨‍💻 This week, I spent my time on:
+[![casual's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
