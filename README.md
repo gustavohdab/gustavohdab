@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=casualmente)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavohdab)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
@@ -41,10 +41,10 @@ me.say_hi()
 
 <!-- ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/casualmente">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casualmente&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Casual's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohdab&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Casual's GitHub Stats" />
 </a>
 <a href="https://github.com/casualmente">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=casualmente&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Casual's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohdab&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Casual's GitHub Stats" />
 </a> -->
 
 ## 🏆 GitHub Trophies
@@ -54,12 +54,12 @@ me.say_hi()
 ## 🗂️ Currently Highlight Projects
 
 <a href="https://github.com/casualmente/Nlw-e-sports-web-and-mobile-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casualmente&repo=Nlw-esports-web-and-mobile-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-mobile-web-app" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=Nlw-esports-web-and-mobile-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-mobile-web-app" />
 </a>
 
 <a href="https://github.com/casualmente/ignite-lab-design-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casualmente&repo=ignite-lab-design-system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=ignite-lab-design-system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
 </a>
 
 <!-- ## 👨‍💻 This week, I spent my time on:
-[![casual's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
+[![gustavo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
