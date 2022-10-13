@@ -54,11 +54,11 @@ me.say_hi()
 ## 🗂️ Currently Highlight Projects
 
 <a href="https://github.com/casualmente/Nlw-esports-web-and-mobile-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casualmente&repo=Nlw-esports-web-and-mobile-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casualmente&repo=Nlw-esports-web-and-mobile-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-mobile-web-app" />
 </a>
 
 <a href="https://github.com/casualmente/ignite-lab-design-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casualmente&repo=ignite-lab-design-system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casualmente&repo=ignite-lab-design-system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
 </a>
 
 <!-- ## 👨‍💻 This week, I spent my time on:
