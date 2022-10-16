@@ -18,10 +18,11 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-## 📝 Blogs
+## 📝 Pages
 
-- Work in Progress.
-- For while can connect with me in LinkedIn: https://www.linkedin.com/in/gustavo-h-batista/
+- Portfolio: work in progress.
+- Simple portfolio: https://gustavohdab.github.io/SimplePortfolio/
+- Connect with me in LinkedIn: https://www.linkedin.com/in/gustavo-h-batista/
 
 ## 🔧 Technologies & Tools
 
