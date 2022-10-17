@@ -40,18 +40,18 @@ me.say_hi()
 
 
 
-<!-- ## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 <a href="https://github.com/gustavohdab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohdab&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Casual's GitHub Stats" />
 </a>
 <a href="https://github.com/gustavohdab">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohdab&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Casual's GitHub Stats" />
-</a> -->
+</a> 
 
 ## 🏆 GitHub Trophies
-<p align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</p>    
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
 
 ## 🗂️ Currently Highlight Projects
 
