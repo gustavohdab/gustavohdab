@@ -49,8 +49,9 @@ me.say_hi()
 </a> -->
 
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</p>    
 
 ## 🗂️ Currently Highlight Projects
 
