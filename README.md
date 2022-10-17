@@ -67,4 +67,18 @@ me.say_hi()
 
 [![gustavo's wakatime stats]
 <!--START_SECTION:waka-->
+
+```text
+From: 14 October 2022 - To: 17 October 2022
+
+Total Time: 10 hrs 47 mins
+
+JavaScript   5 hrs 16 mins   >>>>>>>>>>>>-------------   48.82 %
+CSS          2 hrs 20 mins   >>>>>--------------------   21.67 %
+HTML         2 hrs 1 min     >>>>>--------------------   18.81 %
+Markdown     1 hr 5 mins     >>>----------------------   10.05 %
+TypeScript   1 min           -------------------------   00.28 %
+Git          1 min           -------------------------   00.20 %
+```
+
 <!--END_SECTION:waka-->
