@@ -63,5 +63,6 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=ignite-lab-design-system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
 </a>
 
-<!-- ## 👨‍💻 This week, I spent my time on:
+## 👨‍💻 This week, I spent my time on:
+
 [![gustavo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gustavohdab&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/gustavohdab/github-readme-stats) -->
