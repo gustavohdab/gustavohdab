@@ -7,7 +7,7 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-class SoftwareEngineer:
+class Full Stack Developer:
     def __init__(self):
         self.name = "Gustavo Batista"
         self.college = "Computer Science"
