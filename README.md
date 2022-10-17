@@ -65,7 +65,6 @@ me.say_hi()
 
 ## 👨‍💻 This week, I spent my time on:
 
-[![gustavo's wakatime stats]
 <!--START_SECTION:waka-->
 
 ```text
