@@ -7,15 +7,15 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-class Full Stack Developer:
+class FullStackDeveloper:
     def __init__(self):
         self.name = "Gustavo Batista"
         self.college = "Computer Science"
-        self.role = "Software Engineer"
+        self.role = "Full Stack Developer"
         self.language_spoken = ["pt_BR", "en_US"]
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
-me = SoftwareEngineer()
+me = Full Stack Developer()
 me.say_hi()
 ```
 ## 📝 Pages
