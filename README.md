@@ -42,10 +42,10 @@ me.say_hi()
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/gustavohdab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohdab&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Casual's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohdab&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
 </a>
 <a href="https://github.com/gustavohdab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohdab&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Casual's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohdab&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
 </a> 
 
 ## 🏆 GitHub Trophies
