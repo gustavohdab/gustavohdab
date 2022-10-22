@@ -66,16 +66,16 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 20 October 2022
+From: 14 October 2022 - To: 21 October 2022
 
-Total Time: 25 hrs 35 mins
+Total Time: 29 hrs 33 mins
 
-JavaScript   15 hrs 34 mins  >>>>>>>>>>>>>>>----------   60.85 %
-CSS          4 hrs 26 mins   >>>>---------------------   17.38 %
-HTML         2 hrs 55 mins   >>>----------------------   11.44 %
-Markdown     2 hrs 3 mins    >>-----------------------   08.07 %
-XML          16 mins         -------------------------   01.09 %
-JSON         13 mins         -------------------------   00.85 %
+JavaScript   19 hrs 2 mins   >>>>>>>>>>>>>>>>---------   64.42 %
+CSS          4 hrs 39 mins   >>>>---------------------   15.74 %
+HTML         3 hrs 3 mins    >>>----------------------   10.36 %
+Markdown     2 hrs 5 mins    >>-----------------------   07.09 %
+XML          22 mins         -------------------------   01.25 %
+JSON         14 mins         -------------------------   00.85 %
 ```
 
 <!--END_SECTION:waka-->
