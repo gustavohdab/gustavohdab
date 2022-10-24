@@ -16,10 +16,10 @@ class FullStackDeveloper:
 me = Full Stack Developer()
 me.say_hi()
 ```
-## 📝 Pages
+<!-- ## 📝 Pages
 
 - Portfolio: work in progress.
-- Connect with me in LinkedIn: https://www.linkedin.com/in/gustavo-h-batista/
+- Connect with me in LinkedIn: https://www.linkedin.com/in/gustavo-h-batista/ -->
 
 ## 🔧 Technologies & Tools
 
