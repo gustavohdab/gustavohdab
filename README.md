@@ -19,7 +19,6 @@ me.say_hi()
 ## 📝 Pages
 
 - Portfolio: work in progress.
-- Simple portfolio: https://gustavohdab.github.io/SimplePortfolio/
 - Connect with me in LinkedIn: https://www.linkedin.com/in/gustavo-h-batista/
 
 ## 🔧 Technologies & Tools
