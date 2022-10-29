@@ -1,11 +1,11 @@
 <h1 align="center"> Hello there 👋 </h1>
 
 <p align="center">
-  <a href="#-Technologies-&-Tools">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-I-spent-my-time-on">I spent my time on</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-GitHub-Trophies">GitHub Trophies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies--tools">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-i-spent-my-time-on">I spent my time on</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-github-trophies">GitHub Trophies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-currently-highlight-projects">Highlight's</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-GitHub-Stats">GitHub Stats</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="#-github-stats">GitHub Stats</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavohdab)
