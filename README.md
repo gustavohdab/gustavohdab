@@ -35,7 +35,24 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-HTML-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
 
+## 👨‍💻 This week, I spent my time on:
 
+<!--START_SECTION:waka-->
+
+```text
+From: 14 October 2022 - To: 28 October 2022
+
+Total Time: 53 hrs 32 mins
+
+JavaScript   34 hrs 31 mins  >>>>>>>>>>>>>>>>---------   64.47 %
+CSS          10 hrs 3 mins   >>>>>--------------------   18.79 %
+HTML         5 hrs 26 mins   >>>----------------------   10.16 %
+Markdown     2 hrs 31 mins   >------------------------   04.71 %
+XML          39 mins         -------------------------   01.24 %
+JSON         14 mins         -------------------------   00.47 %
+```
+
+<!--END_SECTION:waka-->
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/gustavohdab">
@@ -60,21 +77,11 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=ignite-lab-design-system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
 </a>
 
-## 👨‍💻 This week, I spent my time on:
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/gustavohdab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohdab&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
+</a>
+<a href="https://github.com/gustavohdab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohdab&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
+</a> 
 
-<!--START_SECTION:waka-->
-
-```text
-From: 14 October 2022 - To: 28 October 2022
-
-Total Time: 53 hrs 32 mins
-
-JavaScript   34 hrs 31 mins  >>>>>>>>>>>>>>>>---------   64.47 %
-CSS          10 hrs 3 mins   >>>>>--------------------   18.79 %
-HTML         5 hrs 26 mins   >>>----------------------   10.16 %
-Markdown     2 hrs 31 mins   >------------------------   04.71 %
-XML          39 mins         -------------------------   01.24 %
-JSON         14 mins         -------------------------   00.47 %
-```
-
-<!--END_SECTION:waka-->
