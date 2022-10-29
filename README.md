@@ -3,9 +3,9 @@
 <p align="center">
   <a href="#-Technologies-&-Tools">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-I-spent-my-time-on">I spent my time on</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Currently-Highlight-Projects">Highlight's</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-GitHub-Stats">GitHub Stats</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-GitHub-Trophies">GitHub Trophies</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="#-GitHub-Trophies">GitHub Trophies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-currently-highlight-projects">Highlight's</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-GitHub-Stats">GitHub Stats</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavohdab)
