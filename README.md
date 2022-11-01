@@ -48,7 +48,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 30 October 2022
+From: 14 October 2022 - To: 31 October 2022
 
 Total Time: 60 hrs 26 mins
 
