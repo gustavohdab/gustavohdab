@@ -80,6 +80,10 @@ JSON         1 hr 31 mins    -------------------------   01.65 %
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=challenge-focustimer-v2&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
 </a>
 
+<a href="https://github.com/gustavohdab/nlw-copa-ignite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=nlw-copa-ignite&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
+</a>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gustavohdab">
