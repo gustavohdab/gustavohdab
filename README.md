@@ -37,18 +37,20 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
-![OS Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![OS Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![Editor VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![Code TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
-![Code React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![Code ReactNative](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![Tools SQL](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
-![Tools NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=6aa6f8)
-![Tools NextJS](https://img.shields.io/badge/Tools-NextJS-informational?style=flat&logo=NextJS&logoColor=white&color=6aa6f8)
-![Tools HTML](https://img.shields.io/badge/Tools-HTML-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
-![Tools HTML](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
+![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=&color=6aa6f8)
+![Code TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=&color=6aa6f8)
+![Code React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
+![Code ReactNative](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
+![Tools NextJS](https://img.shields.io/badge/Tools-NextJS-informational?style=flat&logo=Next.js&logoColor=black&color=6aa6f8)
+![Tools Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=&color=6aa6f8)
+![Tools mySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=&color=6aa6f8)
+![Tools MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=&color=6aa6f8)
+![Tools NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=&color=6aa6f8)
+![Tools HTML](https://img.shields.io/badge/Tools-HTML5-informational?style=flat&logo=html5&logoColor=&color=6aa6f8)
+![Tools CSS](https://img.shields.io/badge/Tools-CSS3-informational?style=flat&logo=css3&logoColor=blue&color=6aa6f8)
+![OS Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=&color=6aa6f8)
+![OS Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=6aa6f8)
+![Editor VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=6aa6f8)
 
 ## 👨‍💻 I spent my time on 
 <p>by <a href="#" target="_blank">WakaTime:</a></p>
