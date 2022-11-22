@@ -51,7 +51,7 @@ me.say_hi()
 ![Tools HTML](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
 
 ## 👨‍💻 I spent my time on 
->by [WakaTime](https://wakatime.com/)
+>by [WakaTime](https://wakatime.com/?target=_blank)
 
 <!--START_SECTION:waka-->
 
