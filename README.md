@@ -1,4 +1,10 @@
-<h1 align="center"> Hello there 👋 </h1>
+<p align="center">
+<img width=100% height=20 src="https://capsule-render.vercel.app/api?type=waving&color=00ced1&height=120&section=header"/>
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=530&lines=Hello+%F0%9F%91%8B!+I'm+Gustavo+Batista;I+hope+you+find+some+of+my+work+interesting.;You're+welcome+%3D)" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="#-technologies--tools">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -34,16 +40,18 @@ me.say_hi()
 ![OS Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![OS Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![Editor VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![Code Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![Code TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 ![Code React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![Code ReactNative](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![Tools SQL](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
 ![Tools NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=6aa6f8)
+![Tools NextJS](https://img.shields.io/badge/Tools-NextJS-informational?style=flat&logo=NextJS&logoColor=white&color=6aa6f8)
 ![Tools HTML](https://img.shields.io/badge/Tools-HTML-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
 ![Tools HTML](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
 
-## 👨‍💻 I spent my time on
+## 👨‍💻 I spent my time on 
+>by [WakaTime](https://wakatime.com/)
 
 <!--START_SECTION:waka-->
 
