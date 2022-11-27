@@ -3,50 +3,88 @@
 </p>
 
 <p align="center">
-  <a href="#-technologies--tools">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-i-spent-my-time-on">I spent my time on</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-github-trophies">GitHub Trophies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-currently-highlight-projects">Highlight's</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-github-stats">GitHub Stats</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="#%EF%B8%8F-currently-highlight-projects">Highlight's</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavohdab)
+<h1 align="center">Hello 👋, I'm <a href="https://pdfhost.io/v/KJ1p2qyWB_ResumeGustavoBatista" target="blank">
+Gustavo</a></h1>
+<h3 align="center" style="margin-bottom:30px">A passionate Full Stack Developer developer from Brazil <span>&#x1f1e7;&#x1f1f7;</span> </h3>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class FullStackDeveloper:
-    def __init__(self):
-        self.name = "Gustavo Batista"
-        self.college = "Computer Science"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["pt_BR", "en_US"]
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-me = Full Stack Developer()
-me.say_hi()
-```
+<p align="left"> <a href="https://twitter.com/kkcasual" target="blank"><img src="https://img.shields.io/twitter/follow/kkcasual?logo=twitter&style=for-the-badge" alt="my_twitter" /></a> </p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently studying at university
+  <a href="https://uniamerica.br/" target="blank">Descomplica UniAmérica Centro Universitário</a>
+
+- 🌱 I’m currently looking for a job/internship/remote work
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently mainly practicing React, React Native, NodeJS, and Typescript.
+
+- 💬 Ask me about **JavaScript, TypeScript, React & React-Native**
+
+- 📫 How to reach me: **gustavo.ha.batista@gmail.com**
+
+- 📄 Portfolio: <a href="#" target="blank">**Work In Progress 😁**</a>
+<br/>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: px;">Connect with me 🤝 </h3>
+
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/gustavo-h-batista/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/gustavohdab">
+		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+    </a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20551158/gustavo-batista">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
+    </a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/guhenriquedb/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/kkcasual">
+			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" >
+    </a>
+		<a style="margin-left: 5px;" target="_blank" href="https://pdfhost.io/v/KJ1p2qyWB_ResumeGustavoBatista">
+					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
+      </div>
+</p>
+
 <!-- ## 📝 Pages
 
 - Portfolio: work in progress.
 - Connect with me in LinkedIn: https://www.linkedin.com/in/gustavo-h-batista/ -->
 
-## 🔧 Technologies & Tools
+---
 
-![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=&color=6aa6f8)
-![Code TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=&color=6aa6f8)
-![Code React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
-![Code ReactNative](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
-![Tools NextJS](https://img.shields.io/badge/Tools-NextJS-informational?style=flat&logo=Next.js&logoColor=black&color=6aa6f8)
-![Tools Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=&color=6aa6f8)
-![Tools mySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=&color=6aa6f8)
-![Tools MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=&color=6aa6f8)
-![Tools NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=&color=6aa6f8)
-![Tools HTML](https://img.shields.io/badge/Tools-HTML5-informational?style=flat&logo=html5&logoColor=&color=6aa6f8)
-![Tools CSS](https://img.shields.io/badge/Tools-CSS3-informational?style=flat&logo=css3&logoColor=blue&color=6aa6f8)
-![OS Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=&color=6aa6f8)
-![OS Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=6aa6f8)
-![Editor VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=6aa6f8)
+<h3 align="center" style="margin-top:60px; margin-bottom:20px" id="Technologies">Languages and Tools 🛠️</h3>
+
+<div align="center" style="margin-bottom:60px">
+
+  ![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=&color=6aa6f8)
+  ![Code TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=&color=6aa6f8)
+  ![Code React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
+  ![Code ReactNative](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
+  ![Tools NextJS](https://img.shields.io/badge/Tools-NextJS-informational?style=flat&logo=Next.js&logoColor=black&color=6aa6f8)
+  ![Tools Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=&color=6aa6f8)
+  ![Tools mySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=&color=6aa6f8)
+  ![Tools MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=&color=6aa6f8)
+  ![Tools NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=&color=6aa6f8)
+  ![Tools HTML](https://img.shields.io/badge/Tools-HTML5-informational?style=flat&logo=html5&logoColor=&color=6aa6f8)
+  ![Tools CSS](https://img.shields.io/badge/Tools-CSS3-informational?style=flat&logo=css3&logoColor=blue&color=6aa6f8)
+  ![OS Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=&color=6aa6f8)
+  ![OS Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=6aa6f8)
+  ![Editor VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=6aa6f8)
+
+</div>
 
 ## 👨‍💻 I spent my time on 
 <p>by <a href="#" target="_blank">WakaTime:</a></p>
