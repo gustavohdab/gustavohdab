@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#languages-and-tools-%EF%B8%8F">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-i-spent-my-time-on">I spent my time on</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-github-trophies">GitHub Trophies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-currently-highlight-projects">Highlight's</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
