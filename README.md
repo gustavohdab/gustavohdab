@@ -29,7 +29,7 @@ Gustavo</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently mainly practicing React, React Native, NodeJS, and Typescript.
+- 🌱 I’m currently mainly focusing React, React Native, NodeJS, and Typescript.
 
 - 💬 Ask me about **JavaScript, TypeScript, React & React-Native**
 
