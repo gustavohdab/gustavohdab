@@ -35,7 +35,7 @@ Gustavo</a></h1>
 
 - 📫 How to reach me: **gustavo.ha.batista@gmail.com**
 
-- 📄 Portfolio: <a href="#" target="blank">**Work In Progress 😁**</a>
+- 📄 Portfolio: <a href="https://gustavohbatista.netlify.app/" target="[blank](https://gustavohbatista.netlify.app/)">**Personal Portfolio**</a>
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: px;">Connect with me 🤝 </h3>
 
