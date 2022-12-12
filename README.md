@@ -1,8 +1,4 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E95F7&center=true&vCenter=true&width=435&lines=Hello++There%F0%9F%91%8B+" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <a href="#languages-and-tools-%EF%B8%8F">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-i-spent-my-time-on">I spent my time on</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-github-trophies">GitHub Trophies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -37,7 +33,7 @@ Gustavo</a></h1>
 
 - 📄 Portfolio: <a href="https://gustavohbatista.netlify.app/" target="[blank](https://gustavohbatista.netlify.app/)">**Personal Portfolio**</a>
 <br/>
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: px;">Connect with me 🤝 </h3>
+<h3 align="center"> Connect with me 🤝 </h3>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
