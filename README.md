@@ -25,7 +25,7 @@ Gustavo</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently mainly focusing on **JavaScript, NodeJS, React & React-Native**
+- 🚀 I’m currently mainly focusing on **JavaScript, NodeJS, React & React-Native**
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJS & React**
 
