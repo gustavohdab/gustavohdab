@@ -88,45 +88,53 @@ Gustavo</a></h1>
 </div>
 
 ## 👨‍💻 I spent my time on 
-<p>by <a href="#" target="_blank">WakaTime:</a></p>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 14 October 2022 - To: 18 December 2022
-
-Total Time: 232 hrs 20 mins
-
-JavaScript   85 hrs 36 mins  >>>>>>>>>----------------   36.84 %
-TypeScript   69 hrs 53 mins  >>>>>>>>-----------------   30.08 %
-CSS          29 hrs          >>>----------------------   12.49 %
-HTML         11 hrs 45 mins  >------------------------   05.06 %
-Other        9 hrs 30 mins   >------------------------   04.09 %
-```
-
-<!--END_SECTION:waka-->
-
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <p>by <a href="#" target="_blank">WakaTime:</a></p>
   
-## 🗂️ Currently Highlight Projects
+  <!--START_SECTION:waka-->
+  
+  ```text
+  From: 14 October 2022 - To: 18 December 2022
+  
+  Total Time: 232 hrs 20 mins
+  
+  JavaScript   85 hrs 36 mins  >>>>>>>>>----------------   36.84 %
+  TypeScript   69 hrs 53 mins  >>>>>>>>-----------------   30.08 %
+  CSS          29 hrs          >>>----------------------   12.49 %
+  HTML         11 hrs 45 mins  >------------------------   05.06 %
+  Other        9 hrs 30 mins   >------------------------   04.09 %
+  ```
+  
+  <!--END_SECTION:waka-->
+</div>
 
-<a href="https://github.com/gustavohdab/Nlw-e-sports-web-and-mobile-app">
+<div align="center">
+
+  ## 🏆 GitHub Trophies
+  
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+<div align="center">
+    
+  ## 🗂️ Currently Highlight Projects
+  
+  <a href="https://github.com/gustavohdab/Nlw-e-sports-web-and-mobile-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=Nlw-e-sports-web-and-mobile-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-mobile-web-app" />
-</a>
-
-<a href="https://github.com/gustavohdab/ignite-lab-design-system">
+  </a>
+  
+  <a href="https://github.com/gustavohdab/ignite-lab-design-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=ignite-lab-design-system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
-</a>
-
-<a href="https://github.com/gustavohdab/challenge-focustimer-v2">
+  </a>
+  
+  <a href="https://github.com/gustavohdab/challenge-focustimer-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=challenge-focustimer-v2&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
-</a>
-
-<a href="https://github.com/gustavohdab/nlw-copa-ignite">
+  </a>
+  
+  <a href="https://github.com/gustavohdab/nlw-copa-ignite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=nlw-copa-ignite&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
-</a>
+  </a>
+
+</div>
 
 <!-- ## &#x1f4c8; GitHub Stats
 
