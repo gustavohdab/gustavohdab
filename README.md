@@ -60,7 +60,6 @@ Gustavo</a></h1>
 
 - Portfolio: <a href="https://gustavohbatista.netlify.app/" target="[blank](https://gustavohbatista.netlify.app/)">**Personal Portfolio**</a>
 
----
 
 <h2 align="center">
   😶‍🌫️ Cool section to show off some about me 😶‍🌫️
