@@ -36,24 +36,26 @@ Gustavo</a></h1>
 <h3 align="center"> Connect with me 🤝 </h3>
 
 <p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/gustavo-h-batista/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/gustavohdab">
-		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-    </a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20551158/gustavo-batista">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
-    </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/guhenriquedb/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/kkcasual">
-			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" >
-    </a>
-		<a style="margin-left: 5px;" target="_blank" href="https://pdfhost.io/v/KJ1p2qyWB_ResumeGustavoBatista">
-					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
-      </div>
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/gustavo-h-batista/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://github.com/gustavohdab">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20551158/gustavo-batista">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/guhenriquedb/">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/kkcasual">
+    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" >
+  </a>
+  <a style="margin-left: 5px;" target="_blank" href="https://docdro.id/FUoh8VH">
+    <img src="https://img.icons8.com/plasticine/40/000000/resume.png" >
+  </a>
+</div>
 </p>
 
 <!-- ## 📝 Pages
