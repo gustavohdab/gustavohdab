@@ -23,7 +23,7 @@ Gustavo</a></h1>
 
 - 🌱 I’m currently looking for a job/internship/remote work
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m also available for freelancing.
 
 - 🌱 I’m currently mainly focusing on **JavaScript, NodeJS, React & React-Native**
 
@@ -112,12 +112,10 @@ Gustavo</a></h1>
 
 <div align="center"> 
 
-  ## 🏆 GitHub Trophies
-</div>
-  <div style="margin-left:17%">
+ ## 🏆 GitHub Trophies
 
   [![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  </div>
+</div>
 
 <div align="center">
     
