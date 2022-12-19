@@ -25,13 +25,11 @@ Gustavo</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently mainly focusing React, React Native, NodeJS, and Typescript.
+- 🌱 I’m currently mainly focusing on **JavaScript, NodeJS, React & React-Native**
 
-- 💬 Ask me about **JavaScript, TypeScript, React & React-Native**
+- 💬 Ask me about **JavaScript, TypeScript, NodeJS & React**
 
 - 📫 How to reach me: **gustavo.ha.batista@gmail.com**
-
-- 📄 Portfolio: <a href="https://gustavohbatista.netlify.app/" target="[blank](https://gustavohbatista.netlify.app/)">**Personal Portfolio**</a>
 <br/>
 <h3 align="center"> Connect with me 🤝 </h3>
 
@@ -58,14 +56,17 @@ Gustavo</a></h1>
 </div>
 </p>
 
-<!-- ## 📝 Pages
+ ## 📝 Pages
 
-- Portfolio: work in progress.
-- Connect with me in LinkedIn: https://www.linkedin.com/in/gustavo-h-batista/ -->
+- Portfolio: <a href="https://gustavohbatista.netlify.app/" target="[blank](https://gustavohbatista.netlify.app/)">**Personal Portfolio**</a>
 
 ---
 
-<h3 align="center" style="margin-top:60px; margin-bottom:20px" id="Technologies">Languages and Tools 🛠️</h3>
+<h2 align="center">
+  😶‍🌫️ Cool section to show off some about me 😶‍🌫️
+</h2>
+
+<h3 align="center" style="margin-top:50px; margin-bottom:20px" id="Technologies">Languages and Tools 🛠️</h3>
 
 <div align="center" style="margin-bottom:60px">
 
@@ -87,8 +88,9 @@ Gustavo</a></h1>
 
 </div>
 
-## 👨‍💻 I spent my time on 
 <div align="center">
+
+## 👨‍💻 I spent my time on 
   <p>by <a href="#" target="_blank">WakaTime:</a></p>
   
   <!--START_SECTION:waka-->
@@ -108,12 +110,15 @@ Gustavo</a></h1>
   <!--END_SECTION:waka-->
 </div>
 
-<div align="center">
+<div align="center"> 
 
   ## 🏆 GitHub Trophies
-  
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+  <div style="margin-left:17%">
+
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  </div>
+
 <div align="center">
     
   ## 🗂️ Currently Highlight Projects
