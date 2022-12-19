@@ -114,8 +114,10 @@ Gustavo</a></h1>
 
  ## 🏆 GitHub Trophies
 
+  <section style="padding-left:10%">
+  
   [![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+  </section>
 
 <div align="center">
     
