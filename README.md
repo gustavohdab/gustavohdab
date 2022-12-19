@@ -73,6 +73,7 @@ Gustavo</a></h1>
   ![Code ReactNative](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
   ![Tools NextJS](https://img.shields.io/badge/Tools-NextJS-informational?style=flat&logo=Next.js&logoColor=black&color=6aa6f8)
   ![Tools Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=&color=6aa6f8)
+  ![Tools SQLite](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=&color=6aa6f8)
   ![Tools mySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=&color=6aa6f8)
   ![Tools MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=&color=6aa6f8)
   ![Tools NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=&color=6aa6f8)
