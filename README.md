@@ -23,7 +23,7 @@ Gustavo</a></h1>
 
 - 🌱 I’m currently looking for a job/internship/remote work
 
-- 🤝 I’m also available for freelancing.
+- 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently mainly focusing on **JavaScript, NodeJS, React & React-Native**
 
@@ -114,10 +114,9 @@ Gustavo</a></h1>
 
  ## 🏆 GitHub Trophies
 
-  <section style="padding-left:10%">
-  
   [![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  </section>
+</div>
+
 
 <div align="center">
     
@@ -141,13 +140,13 @@ Gustavo</a></h1>
 
 </div>
 
-<!-- ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/gustavohdab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohdab&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
-</a>
-<a href="https://github.com/gustavohdab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohdab&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
-</a> 
-
--->
+<div align="center" style="margin-top: 50px" >
+  
+  ## 📊 My GitHub Stats
+  <a href="https://github.com/gustavohdab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohdab&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
+  </a>
+  <a href="https://github.com/gustavohdab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohdab&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
+  </a> 
+</div>
