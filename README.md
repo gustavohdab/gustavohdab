@@ -95,15 +95,15 @@ Gustavo</a></h1>
   <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 06 January 2023
+From: 14 October 2022 - To: 07 January 2023
 
-Total Time: 372 hrs 25 mins
+Total Time: 382 hrs 3 mins
 
-TypeScript   152 hrs 52 mins >>>>>>>>>>---------------   41.05 %
-JavaScript   103 hrs 35 mins >>>>>>>------------------   27.82 %
-CSS          41 hrs 49 mins  >>>----------------------   11.23 %
-HTML         19 hrs 12 mins  >------------------------   05.16 %
-Other        18 hrs 7 mins   >------------------------   04.87 %
+TypeScript   161 hrs 59 mins >>>>>>>>>>>--------------   42.40 %
+JavaScript   103 hrs 35 mins >>>>>>>------------------   27.12 %
+CSS          41 hrs 49 mins  >>>----------------------   10.95 %
+HTML         19 hrs 12 mins  >------------------------   05.03 %
+Other        18 hrs 38 mins  >------------------------   04.88 %
 ```
 
 <!--END_SECTION:waka-->
