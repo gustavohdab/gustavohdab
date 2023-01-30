@@ -10,7 +10,9 @@
 Gustavo</a></h1>
 <h3 align="center" style="margin-bottom:30px">A passionate Full Stack Developer developer from Brazil <span>&#x1f1e7;&#x1f1f7;</span> </h3>
 
+<!--
 <p align="left"> <a href="https://twitter.com/kkcasual" target="blank"><img src="https://img.shields.io/twitter/follow/kkcasual?logo=twitter&style=for-the-badge" alt="my_twitter" /></a> </p>
+-->
 
 <!-- 
 <a target="_blank" align="center">
