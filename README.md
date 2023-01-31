@@ -52,7 +52,7 @@ Gustavo</a></h1>
   <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/kkcasual">
     <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" >
   </a>
-  <a style="margin-left: 5px;" target="_blank" href="https://docdro.id/FUoh8VH">
+  <a style="margin-left: 5px;" target="_blank" href="https://docdro.id/9ez0bl3">
     <img src="https://img.icons8.com/plasticine/40/000000/resume.png" >
   </a>
 </div>
