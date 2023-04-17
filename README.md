@@ -20,14 +20,12 @@ Gustavo</a></h1>
 </a> 
 -->
 
-- 🔭 I’m currently studying at university
-  <a href="https://uniamerica.br/" target="blank">Descomplica UniAmérica Centro Universitário</a>
+- 🔭 I’m currently studying Computer Science at
+  <a href="https://uniamerica.br/" target="blank">UniAmérica Centro Universitário</a>
 
-- 🌱 I’m currently looking for a job/internship/remote work
+- 🌱 I’m currently work as a **Full Stack Developer** at <a href="https://bluecore.it/" target="blank">Bluecore.it</a> and as a **Front-End Developer** at <a href="https://teamsoft.com.br/" target="blank">Teamsoft</a>
 
-- 🤝 I’m available for freelancing.
-
-- 🚀 I’m currently mainly focusing on **JavaScript, NodeJS, React & React-Native**
+- 🚀 I’m currently mainly focusing on **TypeScript, NodeJS, React, Next.js & Tailwindcss**
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJS & React**
 
