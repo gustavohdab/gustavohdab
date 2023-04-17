@@ -109,6 +109,12 @@ Other        35 hrs 59 mins  >------------------------   04.13 %
 ```
 
 <!--END_SECTION:waka-->
+
+<img
+  src="https://github.com/gustavohdab/gustavohdab/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
 </div>
 
 <div align="center"> 
