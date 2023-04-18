@@ -95,7 +95,7 @@ Gustavo</a></h1>
   
   <!--START_SECTION:waka-->
 
-```text
+<!--```text
 From: 14 October 2022 - To: 17 April 2023
 
 Total Time: 870 hrs 39 mins
