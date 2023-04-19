@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#languages-and-tools-%EF%B8%8F">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-i-spent-my-time-on">I spent my time on</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-code-time-tracking">Code Time Tracking</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-github-trophies">GitHub Trophies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-currently-highlight-projects">Highlight's</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -90,8 +90,8 @@ Gustavo</a></h1>
 
 <div align="center">
 
-## 👨‍💻 I spent my time on 
-  <p>by <a href="#" target="_blank">WakaTime:</a></p>
+## 👨‍💻 Code Time Tracking
+  <p>My VSCode time tracking by <a href="#" target="_blank"> WakaTime: </a> </p>
   
   <!--START_SECTION:waka-->
 
