@@ -23,7 +23,7 @@ Gustavo</a></h1>
 - 🔭 I’m currently studying Computer Science at
   <a href="https://uniamerica.br/" target="blank">UniAmérica Centro Universitário</a>
 
-- 🌱 I’m currently work as a **Full Stack Developer** at <a href="https://bluecore.it/" target="blank">Bluecore.it</a> and as a **Front-End Developer** at <a href="https://teamsoft.com.br/" target="blank">Teamsoft</a>
+- 🌱 I’m currently work as a **Full Stack Developer** at <a href="https://bluecore.it/" target="blank">Bluecore.it</a>
 
 - 🚀 I’m currently mainly focusing on **TypeScript, NodeJS, React, Next.js & Tailwindcss**
 
