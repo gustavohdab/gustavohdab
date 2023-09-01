@@ -25,12 +25,12 @@ Gustavo</a></h1>
 
 - 🌱 I’m currently work as a **Full Stack Developer** at <a href="https://bluecore.it/" target="blank">Bluecore.it</a>
 
-- 🚀 I’m currently mainly focusing on **TypeScript, NodeJS, React, Next.js & Tailwindcss**
+- 🚀 I’m currently mainly focusing on **TypeScript, React, Next.js, Tailwindcss & NodeJS**
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJS & React**
 
-- 📫 How to reach me: **gustavo.ha.batista@gmail.com**
-<br/>
+- 📫 How to reach me: **<gustavo.ha.batista@gmail.com>**
+
 <h3 align="center"> Connect with me 🤝 </h3>
 
 <p align="center">
@@ -56,10 +56,9 @@ Gustavo</a></h1>
 </div>
 </p>
 
- ## 📝 Pages
+## 📝 Pages
 
 - Portfolio: <a href="https://gustavohbatista.netlify.app/" target="[blank](https://gustavohbatista.netlify.app/)">**Personal Portfolio**</a>
-
 
 <h2 align="center">
   😶‍🌫️ Cool section to show off some about me 😶‍🌫️
@@ -76,7 +75,6 @@ Gustavo</a></h1>
 ![Tools TailwindCSS](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=&color=6aa6f8)
 ![Tools NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=&color=6aa6f8)
 ![Code ReactNative](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
-![Tools Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=&color=6aa6f8)
 ![Tools SQLite](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=&color=6aa6f8)
 ![Tools mySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=&color=6aa6f8)
 ![Tools HTML](https://img.shields.io/badge/Tools-HTML5-informational?style=flat&logo=html5&logoColor=&color=6aa6f8)
@@ -89,6 +87,7 @@ Gustavo</a></h1>
 <div align="center">
 
 ## 👨‍💻 Code Time Tracking
+
   <p>My VSCode time tracking by <a href="#" target="_blank"> WakaTime: </a> </p>
   
   <!--START_SECTION:waka-->
@@ -114,37 +113,36 @@ Other        35 hrs 59 mins  >------------------------   04.13 %
 
 </div>
 
-<div align="center"> 
+<div align="center">
 
- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
   [![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
-
 <div align="center">
-    
-  ## 🗂️ Currently Highlight Projects
+
+## 🗂️ Currently Highlight Projects
   
-  <a href="https://github.com/gustavohdab/Nlw-e-sports-web-and-mobile-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=Nlw-e-sports-web-and-mobile-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-mobile-web-app" />
+  <a href="https://github.com/gustavohdab/discord-clone-nextjs13">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=discord-clone-nextjs13&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-mobile-web-app" />
   </a>
   
-  <a href="https://github.com/gustavohdab/ignite-lab-design-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=ignite-lab-design-system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
+  <a href="https://github.com/gustavohdab/nextjs-ecommerce-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=nextjs-ecommerce-admin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
   </a>
   
-  <a href="https://github.com/gustavohdab/challenge-focustimer-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=challenge-focustimer-v2&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
+  <a href="https://github.com/gustavohdab/nextjs-ecommerce-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=nextjs-ecommerce-store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
   </a>
   
-  <a href="https://github.com/gustavohdab/nlw-copa-ignite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=nlw-copa-ignite&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
+  <a href="https://github.com/gustavohdab/socius">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=socius&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
   </a>
 
 </div>
 
-<div align="center" style="margin-top: 50px" >
+<!-- <div align="center" style="margin-top: 50px" >
   
   ## 📊 My GitHub Stats
   <a href="https://github.com/gustavohdab">
@@ -153,4 +151,4 @@ Other        35 hrs 59 mins  >------------------------   04.13 %
   <a href="https://github.com/gustavohdab">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohdab&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
   </a> 
-</div>
+</div> -->
