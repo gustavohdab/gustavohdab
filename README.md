@@ -58,6 +58,7 @@ Gustavo</a></h1>
 
 ## 📝 Pages
 
+- 2023 Next.js Portfolio: <a href="https://nextjs-portfolio-gustavohdab.vercel.app/" target="[blank](https://nextjs-portfolio-gustavohdab.vercel.app/)">**Personal Portfolio**</a> (Under development)
 - Portfolio: <a href="https://gustavohbatista.netlify.app/" target="[blank](https://gustavohbatista.netlify.app/)">**Personal Portfolio**</a>
 
 <h2 align="center">
