@@ -1,96 +1,81 @@
 <p align="center">
-  <a href="#languages-and-tools-%EF%B8%8F">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about-me">About me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-social">Social</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pages">Pages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies--tools">Technologies & Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-code-time-tracking">Code Time Tracking</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-github-trophies">GitHub Trophies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-currently-highlight-projects">Highlight's</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-currently-highlight-projects">Currently Highlight Projects</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavohdab)
-<h1 align="center">Hello 👋, I'm <a href="https://docdro.id/FUoh8VH" target="blank">
-Gustavo</a></h1>
-<h3 align="center" style="margin-bottom:30px">A passionate Full Stack Developer developer from Brazil <span>&#x1f1e7;&#x1f1f7;</span> </h3>
 
-<!--
-<p align="left"> <a href="https://twitter.com/kkcasual" target="blank"><img src="https://img.shields.io/twitter/follow/kkcasual?logo=twitter&style=for-the-badge" alt="my_twitter" /></a> </p>
--->
+# Gustavo H. A. Batista
 
-<!-- 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a> 
--->
+## Software Engineer | Rust Enthusiast | Computer Science Student | JavaScript Workaholic | NextJS Wizard | Gaming Aficionado 🇧🇷
 
-- 🔭 I’m currently studying Computer Science at
-  <a href="https://uniamerica.br/" target="blank">UniAmérica Centro Universitário</a>
+_Spoiler Alert:_ Very Soon WEB3 / Blockchain Developer | Rustacean 🦀
 
-- 🌱 I’m currently work as a **Full Stack Developer** at <a href="https://bluecore.it/" target="blank">Bluecore.it</a>
+![GIF](https://global.discourse-cdn.com/business5/uploads/rust_lang/original/2X/9/9f76ef5e791e27deaaafbca2a3bea35d63e165c8.gif)
 
-- 🚀 I’m currently mainly focusing on **TypeScript, React, Next.js, Tailwindcss & NodeJS**
+## 🌐 About me
 
-- 💬 Ask me about **JavaScript, TypeScript, NodeJS & React**
+- 🎓 Studying Computer Science at [UniAmérica Centro Universitário](https://uniamerica.br/)
+- 💼 Full Stack Developer at [Bluecore.it](https://bluecore.it/)
+- 🚀 Mainly focusing on **Rust 🦀, Blockchain, WEB3**
+- 💬 Ask me about **JavaScript, TypeScript, NextJS, TailwindCSS, React**
+- 📫 Reach me at: [gustavo.ha.batista@gmail.com](mailto:gustavo.ha.batista@gmail.com)
 
-- 📫 How to reach me: **<gustavo.ha.batista@gmail.com>**
+## 🔗 Social
 
-<h3 align="center"> Connect with me 🤝 </h3>
-
-<p align="center">
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/gustavo-h-batista/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://github.com/gustavohdab">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20551158/gustavo-batista">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/guhenriquedb/">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/kkcasual">
-    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" >
-  </a>
-  <a style="margin-left: 5px;" target="_blank" href="https://docdro.id/9ez0bl3">
-    <img src="https://img.icons8.com/plasticine/40/000000/resume.png" >
-  </a>
-</div>
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-h-batista/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guhenriquedb/)
+[![Twitter](https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/gustavohdab/)
+[![Discord](https://img.shields.io/badge/-Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/275784977633771520)
 
 ## 📝 Pages
 
-- 2023 Next.js Portfolio: <a href="https://nextjs-portfolio-gustavohdab.vercel.app/" target="[blank](https://nextjs-portfolio-gustavohdab.vercel.app/)">**Personal Portfolio**</a> (Under development)
-- Portfolio: <a href="https://gustavohbatista.netlify.app/" target="[blank](https://gustavohbatista.netlify.app/)">**Personal Portfolio**</a>
+- 2023 Next.js Portfolio: [**Personal Portfolio**](https://nextjs-portfolio-gustavohdab.vercel.app/) (Under development)
+- Portfolio: [**Personal Portfolio**](https://gustavohbatista.netlify.app/)
 
-<h2 align="center">
-  😶‍🌫️ Cool section to show off some about me 😶‍🌫️
-</h2>
+## 🔧 Technologies & Tools
 
-<h3 align="center" style="margin-top:50px; margin-bottom:20px" id="Technologies">Languages and Tools 🛠️</h3>
+**Programming Languages:**
 
-<div align="center" style="margin-bottom:60px">
-
+![Code Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=&color=6aa6f8)
+![Code Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=&color=6aa6f8)
 ![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=&color=6aa6f8)
-![Code React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
 ![Code TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=&color=6aa6f8)
+
+**Web Development Tools:**
+
+![Code React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
 ![Tools NextJS](https://img.shields.io/badge/Tools-NextJS-informational?style=flat&logo=Next.js&logoColor=black&color=6aa6f8)
 ![Tools TailwindCSS](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=&color=6aa6f8)
 ![Tools NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node.js&logoColor=&color=6aa6f8)
-![Code ReactNative](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
-![Tools SQLite](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=&color=6aa6f8)
-![Tools mySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=&color=6aa6f8)
-![Tools HTML](https://img.shields.io/badge/Tools-HTML5-informational?style=flat&logo=html5&logoColor=&color=6aa6f8)
-![Tools CSS](https://img.shields.io/badge/Tools-CSS3-informational?style=flat&logo=css3&logoColor=blue&color=6aa6f8)
-![OS Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=6aa6f8)
-![Editor VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=6aa6f8)
 
-</div>
+**Databases:**
 
-<div align="center">
+![Tools PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=&color=6aa6f8)
+![Tools Redis](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=&color=6aa6f8)
+![Tools Prisma](https://img.shields.io/badge/Tools-Prisma-informational?style=flat&logo=prisma&logoColor=&color=6aa6f8)
+![Tools MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=&color=6aa6f8)
+
+**Blockchain & WEB3:**
+
+![Tools Solana](https://img.shields.io/badge/Tools-Solana-informational?style=flat&logo=solana&logoColor=&color=6aa6f8)
+![Tools Anchor](https://img.shields.io/badge/Tools-Anchor-informational?style=flat&logo=anchor&logoColor=&color=6aa6f8)
+![Tools Move](https://img.shields.io/badge/Tools-Move-informational?style=flat&logo=move&logoColor=&color=6aa6f8)
+
+**Tools and Services:**
+
+![Tools Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=&color=6aa6f8)
+![Tools Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=&color=6aa6f8)
+
 
 ## 👨‍💻 Code Time Tracking
 
-  <p>My VSCode time tracking by <a href="#" target="_blank"> WakaTime: </a> </p>
-  
+My VSCode time tracking by **WakaTime**
+
   <!--START_SECTION:waka-->
 
 <!--```text
@@ -112,44 +97,24 @@ Other        35 hrs 59 mins  >------------------------   04.13 %
   alt="Avinal WakaTime Activity"
 />
 
-</div>
+<!-- ## 🏆 GitHub Trophies
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
-<div align="center">
+[![Trophies](https://github-profile-trophy.vercel.app/?username=gustavohdab&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 🗂️ Currently Highlight Projects
-  
-  <a href="https://github.com/gustavohdab/discord-clone-nextjs13">
+
+<a href="https://github.com/gustavohdab/discord-clone-nextjs13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=discord-clone-nextjs13&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-mobile-web-app" />
-  </a>
-  
-  <a href="https://github.com/gustavohdab/nextjs-ecommerce-admin">
+</a>
+
+<a href="https://github.com/gustavohdab/nextjs-ecommerce-admin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=nextjs-ecommerce-admin&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
-  </a>
-  
-  <a href="https://github.com/gustavohdab/nextjs-ecommerce-store">
+</a>
+
+<a href="https://github.com/gustavohdab/nextjs-ecommerce-store">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=nextjs-ecommerce-store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
-  </a>
-  
-  <a href="https://github.com/gustavohdab/socius">
+</a>
+
+<a href="https://github.com/gustavohdab/socius">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavohdab&repo=socius&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="design-system" />
-  </a>
-
-</div>
-
-<!-- <div align="center" style="margin-top: 50px" >
-  
-  ## 📊 My GitHub Stats
-  <a href="https://github.com/gustavohdab">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohdab&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
-  </a>
-  <a href="https://github.com/gustavohdab">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohdab&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gustavo's GitHub Stats" />
-  </a> 
-</div> -->
+</a>
