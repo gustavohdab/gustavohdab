@@ -8,7 +8,7 @@
 
 # Gustavo H. A. Batista
 
-## FullStack Developer | Data Engineer Aspirant
+## FullStack Developer
 
 ```python
 #!/usr/bin/python
@@ -19,11 +19,10 @@ class Gustavo:
   def __init__(self):
     self.name = "Gustavo H. A. Batista"
     self.role = "Full Stack Developer"
-    self.currently_learning = "Data Engineering"
     self.languages_spoken = ["en_US", "pt_BR"]
 
   def say_hi(self):
-    print("Hello there, I'm currently transitioning to a career in Data Engineering. Feel free to reach out to me at gustavo.ha.batista@gmail.com")
+    print("Hello there, feel free to reach out to me at gustavo.ha.batista@gmail.com")
 
 me = Gustavo()
 me.say_hi()
