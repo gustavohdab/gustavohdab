@@ -68,5 +68,3 @@ me.say_hi()
 ## 🔗 Find me
 
 [![Linkedin](https://img.shields.io/badge/-gustavohbatista-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-h-batista/)
-[![Twitter](https://img.shields.io/badge/-casual_xyz-white?style=flat-square&logo=twitter&logoColor=black)](https://twitter.com/gustavohdab/)
-[![Discord](https://img.shields.io/badge/-casual-darkblue?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/275784977633771520)
