@@ -2,9 +2,9 @@
 
 # Gustavo H. A. Batista
 
-## Frontend Developer | React | TypeScript
+## FullStack Developer | React | TypeScript
 
-I'm a passionate Frontend Developer focused on building **high-performance** and **intuitive** user interfaces. With experience in **Full Stack Development**, I have a solid understanding of modern architectures and best development practices.
+I'm a passionate FullStack Developer focused on building **high-performance** and **intuitive** user interfaces. With experience in **Full Stack Development**, I have a solid understanding of modern architectures and development practices. I also have a growing interest in **Machine Learning** and **Artificial Intelligence**.
 
 ## 🔧 Technologies & Tools
 
@@ -14,6 +14,8 @@ I'm a passionate Frontend Developer focused on building **high-performance** and
 ![React](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=&color=6aa6f8)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=black&color=6aa6f8)
 ![TailwindCSS](https://img.shields.io/badge/Lib-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=&color=6aa6f8)
+![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=&color=6aa6f8)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=&color=6aa6f8)
 
 **Tools & DevOps:**
 ![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=&color=6aa6f8)
