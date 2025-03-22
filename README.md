@@ -4,7 +4,7 @@
 
 ## Frontend Developer | React | TypeScript
 
-I'm a passionate FullStack Developer focused on building **high-performance** and **intuitive** user interfaces. With experience in **Full Stack Development**, I have a solid understanding of modern architectures and development practices. I also have a growing interest in **Machine Learning** and **Artificial Intelligence**.
+I'm a passionate Developer focused on building **high-performance** and **intuitive** user interfaces. With experience in **Full Stack Development**, I have a solid understanding of modern architectures and development practices. I also have a growing interest in **Machine Learning** and **Artificial Intelligence**.
 
 ## 🔧 Technologies & Tools
 
