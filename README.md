@@ -36,7 +36,7 @@ I'm a passionate **Full Stack Developer** focused on building **high-performance
 
 ## 🔥 Experience
 
-- **1.5+ years of experience as a Full Stack Developer**, building robust and scalable web applications using technologies like React, Node.js, Python, and PHP.
+- **2+ years of experience as a Full Stack Developer**, building robust and scalable web applications using technologies like React, Node.js, Python, and PHP.
 - **Strong focus on Frontend**, crafting performant and accessible interfaces with React and Next.js.
 - **Skilled in Backend development**, creating secure and well-documented REST APIs with Node.js, Express, and PHP frameworks.
 - **Utilizing Python** for backend logic and exploring its application in **Machine Learning**.
