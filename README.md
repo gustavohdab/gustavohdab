@@ -12,14 +12,12 @@ I work as a Software Engineer. I like to build things for designers and develope
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776ab)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777bb4)
 ![React](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=61dafb)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=black&color=lightgrey)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![Express](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=black&color=lightgrey)
-![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=ff6f00) <!-- You can change the logo to pytorch, scikitlearn etc. if preferred -->
-![TailwindCSS](https://img.shields.io/badge/Lib-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=06b6d4) <!-- Kept as part of broader skill set -->
+![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=3A27B7)
+![TailwindCSS](https://img.shields.io/badge/Lib-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=06b6d4)
 
 **Databases:**
 
@@ -36,7 +34,7 @@ I work as a Software Engineer. I like to build things for designers and develope
 
 ## 🔥 Experience
 
-- **2+ years of experience as a Full Stack Developer**, building robust and scalable web applications using technologies like React, Node.js, Python, and PHP.
+- **2+ years of experience as a Full Stack Developer**, building robust and scalable web applications using technologies like React, Node.js.
 - **Skilled in Backend development**, creating secure and well-documented REST APIs with Node.js frameworks.
 - **Utilizing Python** for backend logic and exploring its application in **Machine Learning**.
 - **Practices Test-Driven Development**, using tools like Jest for reliability.
