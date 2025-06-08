@@ -2,9 +2,9 @@
 
 # Gustavo H. A. Batista
 
-## Full Stack Developer | React | Node.js | Python | PHP | ML
+## Software Engineer
 
-I'm a passionate **Full Stack Developer** focused on building **high-performance**, **scalable**, and **intuitive** web applications. I have solid experience across the full development stack, including modern frontend frameworks (React, Next.js), robust backend systems (Node.js, PHP, Python), and database management. I am actively expanding my expertise in **Machine Learning**.
+I work as a Software Engineer. I like to build things for designers and developers, and think deeply about the user interface, how it looks, feels, behaves.
 
 ## 🔧 Technologies & Tools
 
@@ -37,11 +37,10 @@ I'm a passionate **Full Stack Developer** focused on building **high-performance
 ## 🔥 Experience
 
 - **2+ years of experience as a Full Stack Developer**, building robust and scalable web applications using technologies like React, Node.js, Python, and PHP.
-- **Strong focus on Frontend**, crafting performant and accessible interfaces with React and Next.js.
-- **Skilled in Backend development**, creating secure and well-documented REST APIs with Node.js, Express, and PHP frameworks.
+- **Skilled in Backend development**, creating secure and well-documented REST APIs with Node.js frameworks.
 - **Utilizing Python** for backend logic and exploring its application in **Machine Learning**.
 - **Practices Test-Driven Development**, using tools like Jest for reliability.
-- **Active learner**, particularly with **Rocketseat**, always exploring the latest in web development and AI.
+- **Active learner**, never too good to stop learning.
 
 ## 📩 Contact
 
