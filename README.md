@@ -34,7 +34,7 @@ I work as a Software Engineer. I like to build things for designers and develope
 
 ## 🔥 Experience
 
-- **2+ years of experience as a Full Stack Developer**, building robust and scalable web applications using technologies like React, Node.js.
+- **5+ years of experience as a Full Stack Developer**, building robust and scalable web applications using technologies like React, Node.js.
 - **Skilled in Backend development**, creating secure and well-documented REST APIs with Node.js frameworks.
 - **Utilizing Python** for backend logic and exploring its application in **Machine Learning**.
 - **Practices Test-Driven Development**, using tools like Jest for reliability.
